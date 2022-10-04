@@ -107,4 +107,4 @@ use variable "max6675_setup"
 
 MIT license
 
-Copyright 2018 [Ake Hedman, Grodans Paradis AB](akhe@grodansparadis.com)
+Copyright 2018-2022 [Ake Hedman, Grodans Paradis AB](akhe@grodansparadis.com)
